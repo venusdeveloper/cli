@@ -270,7 +270,7 @@ function create_config( )
     "supergroup",
     "add_sudo"
     },
-    sudo_users = {234169062},--Sudo users
+    sudo_users = {91112540},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     text1 = [[
